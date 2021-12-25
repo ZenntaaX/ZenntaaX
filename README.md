@@ -8,6 +8,12 @@
 
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/ZenntaaX)
 
+## 🔧 Languages
+- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
+- ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=magenta)
+- ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
+- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
+
 <div >
 <h3>Github Stat</h3>
    <a href="https://github.com/BetaWile" target="_blank">
