@@ -8,11 +8,15 @@
 
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/ZenntaaX)
 
-## 🔧 Languages
-- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
-- ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=magenta)
-- ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
-- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
+## ⚡ Contact
+
+<div align="center">
+    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://theark.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+</div>
 
 <div >
 <h3>Github Stat</h3>
